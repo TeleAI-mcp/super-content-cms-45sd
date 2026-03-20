@@ -1,2 +1,3 @@
-# super-content-cms-45sd
-Automated issue comment bot repository
+# Super Content Cms 45Sd
+
+Automated issue comment bot repository.
